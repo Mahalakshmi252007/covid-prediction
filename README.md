@@ -1,1 +1,1 @@
-# churn-prediction
+# covid-prediction
